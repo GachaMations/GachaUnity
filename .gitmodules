@@ -1,0 +1,3 @@
+[submodule "gacha-life-unity"]
+	path = gacha-life-unity
+	url = https://github.com/GachaMations/gacha-life-unity
